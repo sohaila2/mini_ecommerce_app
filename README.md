@@ -1,5 +1,14 @@
-git clone https://github.com/sohaila2/mini_ecommerce_app.git
-cd mini_ecommerce
+# 🛒 Mini E-Commerce Flutter App
+
+A simple Flutter e-commerce application with products, categories, favorites, and cart management using **Bloc (Cubit)** for state management and clean architecture, enabling Basic localization (English + Arabic) and Light/dark mode support.
+
+---
+
+## 🚀 Setup Instructions
+
+Clone the repository:
+   git clone https://github.com/sohaila2/mini_ecommerce_app.git
+   cd mini_ecommerce
 
 # 🔗 API Endpoints Used
 
@@ -69,3 +78,4 @@ Cart with quantity update (+/–)
 Product listing with categories
 
 Favorites management
+
