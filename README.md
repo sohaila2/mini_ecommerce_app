@@ -81,3 +81,4 @@ Cart with quantity update (+/–)
 Product listing with categories
 
 Favorites management
+
