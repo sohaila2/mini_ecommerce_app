@@ -13,6 +13,10 @@ Clone the repository:
    git clone https://github.com/sohaila2/mini_ecommerce_app.git
    cd mini_ecommerce
 
+# 🎨 Design Reference
+
+UI inspired by Adobe XD Design
+
 # 🔗 API Endpoints Used
 
 Currently, this project uses mock / hardcoded data (or local JSON).
@@ -82,3 +86,10 @@ Product listing with categories
 
 Favorites management
 
+# ✨ Additional Features
+
+ Shimmer Loading → smooth skeleton loaders for product lists
+
+ go_router Navigation → modern, declarative navigation handling
+
+ Clean Architecture → separation of Data, Domain, and Presentation layers
